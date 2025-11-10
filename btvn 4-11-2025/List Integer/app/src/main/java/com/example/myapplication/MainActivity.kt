@@ -49,7 +49,6 @@ class MainActivity : AppCompatActivity() {
         selectedRadioButton = rbOdd
         rbOdd.isChecked = true
     }
-    
     private fun setupListeners() {
         // Listen for text changes in EditText
         etNumber.addTextChangedListener(object : TextWatcher {
