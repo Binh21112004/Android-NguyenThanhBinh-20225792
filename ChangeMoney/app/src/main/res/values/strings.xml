@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    
+    <!-- Danh sách 10 loại tiền tệ -->
+    <string-array name="currencies">
+        <item>USD - US Dollar</item>
+        <item>EUR - Euro</item>
+        <item>GBP - British Pound</item>
+        <item>JPY - Japanese Yen</item>
+        <item>VND - Vietnamese Dong</item>
+        <item>CNY - Chinese Yuan</item>
+        <item>KRW - South Korean Won</item>
+        <item>THB - Thai Baht</item>
+        <item>SGD - Singapore Dollar</item>
+        <item>AUD - Australian Dollar</item>
+    </string-array>
+</resources>
