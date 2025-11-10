@@ -35,7 +35,6 @@ class MainActivity : AppCompatActivity() {
         "SGD" to 1.35,
         "AUD" to 1.53
     )
-    
     private var isUpdating = false
     
     override fun onCreate(savedInstanceState: Bundle?) {
