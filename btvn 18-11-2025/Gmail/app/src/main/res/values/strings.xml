@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gmail</string>
+    <string name="inbox">Inbox</string>
+    <string name="menu">Menu</string>
+    <string name="search">Search</string>
+    <string name="compose">Compose</string>
+    <string name="star_email">Star email</string>
+    <string name="hint_message">Touch a sender image to select that conversation.</string>
+</resources>
